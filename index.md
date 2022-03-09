@@ -11,3 +11,43 @@ description: A Tutorial
 | [![Octocat](/assets/slides/SNR_2021_Thumbnail.png){: width="250" }](/assets/slides/SNR_2021.pdf) <br /> Talk at [QONFEST 2021](https://qonfest2021.lacl.fr/speakers.php)|
 | [![Octocat](/assets/slides/safe_rl_lecture_2021_TUDelft_Thumbnail.png){: width="250" }](/assets/slides/safe_rl_lecture_2021_TUDelft.pdf) <br /> Lecture at the Algorithms for Intelligent Decision Making course|
 
+
+## Demos
+
+
+
+### Trafic Light Controller
+
+<div class="text-center" style="max-width: 600px; max-height: 600px">
+    <video tabindex="0" controls="" preload="none" style="width: 100%    !important; height: auto   !important;" poster="{{ site.baseurl }}/assets/videos/Adaptive_Shielding_01_Thumbnail.png">
+        <source src="/assets/videos/Adaptive_Shielding_01.mp4" type="video/mp4">
+    </video>
+</div>
+Adaptive Shielding under Uncertainty
+
+
+### Safe Policies for Factored Partially Observable Stochastic Games
+
+Robot Sampling with Charging Constraints
+<div class="text-center" style="max-width: 600px; max-height: 600px">
+    <video tabindex="0" controls="" preload="none" style="width: 100%    !important; height: auto   !important;" poster="{{ site.baseurl }}/assets/videos/SafePoliciesFactoredPOSGs_Thumbnail.png">
+        <source src="/assets/videos/SafePoliciesFactoredPOSGs.mp4" type="video/mp4">
+    </video>
+</div>
+
+### Partially Observable Problem
+
+Safe RL via Shielding for POMDPs
+<div class="text-center" style="max-width: 600px; max-height: 600px">
+    <video tabindex="0" controls="" preload="none" style="width: 100%    !important; height: auto   !important;" poster="{{ site.baseurl }}/assets/videos/SafeRL_POMDPs_Thumbnail.png">
+        <source src="/assets/videos/SafeRL_POMDPs.mp4" type="video/mp4">
+    </video>
+</div>
+
+### Robot Navigation
+
+Pessimistic Constrained RL using Worst-Case Soft Actor Critic
+<div class="text-center" style="max-width: 600px; max-height: 600px">
+	<iframe width="600" height="370" src="https://www.youtube.com/embed/OR9xD1_4_aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	</iframe>
+</div>
