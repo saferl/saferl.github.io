@@ -18,20 +18,20 @@ description: A Tutorial
 
 ### Trafic Light Controller
 
+Adaptive Shielding under Uncertainty
 <div class="text-center" style="max-width: 600px; max-height: 600px">
     <video tabindex="0" controls="" preload="none" style="width: 100%    !important; height: auto   !important;" poster="{{ site.baseurl }}/assets/videos/Adaptive_Shielding_01_Thumbnail.png">
-        <source src="/assets/videos/Adaptive_Shielding_01.mp4" type="video/mp4">
+        <source src="https://surfdrive.surf.nl/files/index.php/s/IJwEZwF0EZvntoq/download" type="video/mp4">
     </video>
 </div>
-Adaptive Shielding under Uncertainty
 
 
-### Safe Policies for Factored Partially Observable Stochastic Games
+### Robot Sampling with Charging Constraints
 
-Robot Sampling with Charging Constraints
+Safe Policies for Factored Partially Observable Stochastic Games
 <div class="text-center" style="max-width: 600px; max-height: 600px">
     <video tabindex="0" controls="" preload="none" style="width: 100%    !important; height: auto   !important;" poster="{{ site.baseurl }}/assets/videos/SafePoliciesFactoredPOSGs_Thumbnail.png">
-        <source src="/assets/videos/SafePoliciesFactoredPOSGs.mp4" type="video/mp4">
+        <source src="https://surfdrive.surf.nl/files/index.php/s/qGxwHaI8FN9W3oT/download" type="video/mp4">
     </video>
 </div>
 
@@ -40,7 +40,7 @@ Robot Sampling with Charging Constraints
 Safe RL via Shielding for POMDPs
 <div class="text-center" style="max-width: 600px; max-height: 600px">
     <video tabindex="0" controls="" preload="none" style="width: 100%    !important; height: auto   !important;" poster="{{ site.baseurl }}/assets/videos/SafeRL_POMDPs_Thumbnail.png">
-        <source src="/assets/videos/SafeRL_POMDPs.mp4" type="video/mp4">
+        <source src="https://surfdrive.surf.nl/files/index.php/s/NYS5ZKjK84IdoGp/download" type="video/mp4">
     </video>
 </div>
 
