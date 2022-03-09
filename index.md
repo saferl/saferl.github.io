@@ -51,3 +51,13 @@ Pessimistic Constrained RL using Worst-Case Soft Actor Critic
 	<iframe width="600" height="370" src="https://www.youtube.com/embed/OR9xD1_4_aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	</iframe>
 </div>
+
+### Pac-Man
+
+Shield helping Pac-Man avoid the ghosts
+<div class="text-center" style="max-width: 600px; max-height: 600px">
+	<video controls="" width="560" height="315">
+	    <source src="http://www.cs.ru.nl/personal/nilsjansen/subs/shield_rl/videos/pacman/originalClassic.mp4" type="video/mp4">
+	    Your browser does not support the video tag.
+	</video> 
+</div>
