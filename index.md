@@ -4,7 +4,19 @@ description: A Tutorial
 ---
 
 
+Safety is a paramount requirement for the deployement of reinforcement learning (RL).
+This tutorial provides an extensive overview of the different perspectives of safe RL.
+We highlight critical issues common to any approach to safe RL and pose the following questions:
+
+- What is the specific understanding of safety?
+- Which type of prior knowledge is needed to reason about the uncertainty of an agent’s environment?
+- How safe is safe RL ultimately?
+
+This page contains material that will be used for the tutorial.
+
 ## Presentations
+
+The following slides will serve as the basis for the tutorial.
 
 | [![Octocat](/assets/slides/safe_rl_lecture_2021_TUDelft_Thumbnail.png){: width="250" }](/assets/slides/safe_rl_lecture_2021_TUDelft.pdf) <br /> Lecture at the Algorithms for Intelligent Decision Making course|
 | [![Octocat](/assets/slides/AI_Safety_2021_Thumbnail.png){: width="250" }](/assets/slides/AI_Safety_2021.pdf) <br /> Lecture at the Model Checking course|
@@ -14,6 +26,7 @@ description: A Tutorial
 
 ## Demos
 
+The following videos show a set of applications using safe RL algorithms.
 
 ### Robot Navigation
 
