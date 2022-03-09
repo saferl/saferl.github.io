@@ -1,0 +1,4 @@
+.gitignore.swp
+.jekyll-metadata
+Gemfile.lock
+_site/
